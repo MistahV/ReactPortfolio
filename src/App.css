@@ -1,0 +1,135 @@
+/* Color Scheme Layout */
+
+:root {
+  --colorMain: rgb(0, 32, 128);
+  --colorSec: rgba(255, 255, 255, 0.86);
+  --colorThi: rgb(255, 200, 0);
+}
+
+
+/* Element styles */
+
+* {box-sizing: border-box;}
+
+body {
+  background-color: var(--colorSec);
+}
+
+body, h1 {
+  margin: 0;
+}
+
+nav {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  color: var(--colorThi);
+  background-color: var(--colorMain);
+  height: fit-content;
+  position: fixed; 
+  top: 0;
+  width: 100%;
+  text-align: right;
+  list-style-type: none;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border-bottom: 2px solid var(--colorThi);
+}
+
+li {
+  display: inline;
+  padding-right: .9rem;
+  padding-left: .9rem;
+}
+
+div img {
+  border:solid 5px var(--colorThi);
+  box-shadow: var(--colorMain) 4px 4px 15px 2px;
+}
+
+a {
+  color: var(--colorThi);
+  text-align: center;
+}
+
+
+.title {
+  color: var(--colorThi);
+  font-size: large;
+  font-weight: bolder;
+  float:left;
+}
+
+
+/* About/Homepage Classes */
+
+.proPic {
+  margin-top: 10vh;
+  padding-top: 4vh;
+  padding-bottom: 4vh;
+  height: 55vh;
+  display: flex;
+  justify-content: center;
+}
+
+.about {
+  background-color: var(--colorSec);
+  height: fit-content;
+  border: solid 4px var(--colorMain);
+  color: var(--colorMain);
+  padding: 1vh 1vw;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  margin-bottom: 2vh;
+  box-shadow: 2px 2px 11px 1px;
+}
+
+.txt-bld {
+  font-weight: bolder;
+}
+
+
+/* Work Page Classes */
+
+.workFlex {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.sample {
+  background-color: var(--colorMain);
+  color: var(--colorSec);
+  padding-left: 2vw;
+  padding-right: 2vw;
+  margin-left: 4vw;
+  margin-right: 3vw;
+  margin-top: 10vh;
+  width: calc(45% - 3vw);
+  height: fit-content;
+  box-shadow: 2px 2px 11px 1px var(--colorMain);
+}
+
+.sampleImg {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  border-style: solid;
+  border-color: var(--colorThi);
+}
+
+
+/* Contact Page Classes */
+
+.contact {
+  background-color: var(--colorSec);
+  height: fit-content;
+  width: fit-content;
+  border: solid 4px var(--colorThi);
+  color: var(--colorMain);
+  padding: 1vh 1vw;
+  margin-top: 10vh;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 2px 2px 11px 1px;
+}
+
