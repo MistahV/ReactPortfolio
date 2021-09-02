@@ -1,6 +1,8 @@
 import React from 'react'
-import portrait from '../../assets/images/ProfilePic.jpeg'
-const About = () => {
+import portrait from '../assets/images/ProfilePic.jpeg'
+
+
+const Intro = () => {
     return (
         <div>
             
@@ -18,11 +20,10 @@ const About = () => {
                 <p>Below, you will see a collection of the multiple projects I have completed independently as part of this coding program. Please reach out directly using my contact information at the bottom if you have any questions! I look forward to hearing from you soon!</p>
             </section>
 
-
-            
             </main>
         </div>
     )
 }
 
-export default About
+
+export default Intro;
