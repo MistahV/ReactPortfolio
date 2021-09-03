@@ -9,7 +9,7 @@ const Navbar = () => {
                 <ul>
                 <li className="title">Chris Van Etten - Official Portfolio</li>
                 <li>
-                    <Link to="/ReactPortfolio">
+                    <Link to="/">
                        About
                     </Link>
                 </li>

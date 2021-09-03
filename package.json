@@ -1,7 +1,7 @@
 {
   "name": "reactportfolio",
   "version": "0.1.0",
-  "homepage": "http://MistahV.github.io/",
+  "homepage": "http://MistahV.github.io/ReactPortfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
