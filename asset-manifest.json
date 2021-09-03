@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.74613cca.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.3335f267.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.3335f267.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.0eea74bd.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.0eea74bd.js.map",
+    "static/js/2.9ee49f6e.chunk.js": "/ReactPortfolio/static/js/2.9ee49f6e.chunk.js",
+    "static/js/2.9ee49f6e.chunk.js.map": "/ReactPortfolio/static/js/2.9ee49f6e.chunk.js.map",
+    "static/js/3.31a13b8f.chunk.js": "/ReactPortfolio/static/js/3.31a13b8f.chunk.js",
+    "static/js/3.31a13b8f.chunk.js.map": "/ReactPortfolio/static/js/3.31a13b8f.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "static/css/main.74613cca.chunk.css.map": "/ReactPortfolio/static/css/main.74613cca.chunk.css.map",
+    "static/js/2.9ee49f6e.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.9ee49f6e.chunk.js.LICENSE.txt",
+    "static/media/PasswordGen.5c948dc3.png": "/ReactPortfolio/static/media/PasswordGen.5c948dc3.png",
+    "static/media/ProfilePic.8c1ec448.jpeg": "/ReactPortfolio/static/media/ProfilePic.8c1ec448.jpeg",
+    "static/media/RefactorPic.c2a4779a.png": "/ReactPortfolio/static/media/RefactorPic.c2a4779a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0eea74bd.js",
+    "static/js/2.9ee49f6e.chunk.js",
+    "static/css/main.74613cca.chunk.css",
+    "static/js/main.3335f267.chunk.js"
+  ]
+}
