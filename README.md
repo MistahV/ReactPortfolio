@@ -14,7 +14,8 @@ This particular application was created using React and then deployed to GitHub 
 
 ## Links
 
-https://mistahv.github.io/Professional-Portolio_Van-Etten/ (application)
+https://mistahv.github.io/ReactPortfolio/ (GitHup Pages application) --> [you need to click on the links, homepage is not showing anything for some reason...]
+
 https://github.com/MistahV/ReactPortfolio.git (git code)
 
 
